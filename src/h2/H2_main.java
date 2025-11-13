@@ -38,6 +38,5 @@ public class H2_main {
 		} else {
 			c = false;
 		}
-		System.out.println("a= " + a + " b= " + b + " c= " + c + " x = " + x + " y= " + y);
 	}
 }
